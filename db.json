@@ -1,0 +1,29 @@
+{
+    "disciplinas": [],
+    "alunos": [
+    
+    {
+    "id": 1,
+    
+    "nome": "Maicon",
+    
+    "matricula": "20212370020",
+    
+    "idade": 21
+    
+    },
+    
+    {
+    "id": 2,
+    
+    "nome": "Felipe",
+    
+    "matricula": "20212370020",
+    
+    "idade": 21
+    
+    }
+    
+    ]
+    
+                               }
